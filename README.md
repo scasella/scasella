@@ -15,26 +15,34 @@
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/scasella/hypothesis_forge"><b>hypothesis-forge</b></a><br>
+      <em>RL environment that rewards novelty with accountability — propose ideas, ground them in evidence, design falsifying experiments</em>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
       <em>AI-powered Safari tab command center for the menu bar</em><br>
       <a href="https://github.com/scasella/TabPilot"><img src="https://raw.githubusercontent.com/scasella/TabPilot/main/screenshots/01-main-view.png" width="400" alt="TabPilot screenshot"></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/SafariMarkdown"><b>SafariMarkdown</b></a><br>
       <em>Convert any Safari tab to clean Markdown in one click</em><br>
       <a href="https://github.com/scasella/SafariMarkdown"><img src="https://raw.githubusercontent.com/scasella/SafariMarkdown/main/screenshot.png" width="400" alt="SafariMarkdown screenshot"></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/ScreenSweep"><b>ScreenSweep</b></a><br>
       <em>Find, review, and clean up macOS screenshots in bulk</em><br>
       <a href="https://github.com/scasella/ScreenSweep"><img src="https://raw.githubusercontent.com/scasella/ScreenSweep/main/screenshot.png" width="400" alt="ScreenSweep screenshot"></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
       <i>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</i><br><br>
       <a href="https://github.com/scasella/nanochat-mlx">Local LLM training with MLX. Fine-tune GPT-2 class models on your Mac.</a>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
@@ -57,6 +65,7 @@
 
 ### ML & Research
 
+- [**hypothesis-forge**](https://github.com/scasella/hypothesis_forge) — RL environment for training models to propose novel, evidence-grounded, falsifiable ideas.
 - [**nanochat-mlx**](https://github.com/scasella/nanochat-mlx) — Train your own ChatGPT on Apple Silicon. MLX port of nanochat.
 
 ### Distribution
