@@ -1,4 +1,4 @@
-## Featured
+## Recent Projects
 
 <table>
   <tr>
