@@ -1,8 +1,3 @@
-# Hey, I'm Stephen
-
-I build native macOS utility apps, AI agent tools, and ML experiments on Apple Silicon.
-
-
 ## Featured
 
 <table>
