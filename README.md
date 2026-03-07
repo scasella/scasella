@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
-      <em>AI-powered Safari tab command center for the menu bar</em><br>
+      <em>Safari tab command center powered by Codex App Server</em><br>
       <a href="https://github.com/scasella/TabPilot"><img src="https://raw.githubusercontent.com/scasella/TabPilot/main/screenshots/01-main-view.png" width="400" alt="TabPilot screenshot"></a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/GhostLabel"><b>GhostLabel</b></a><br>
-      <em>AI-powered Ghostty tab renamer for your macOS menu bar</em><br>
+      <em>Ghostty tab renamer powered by Codex App Server</em><br>
       <a href="https://github.com/scasella/GhostLabel"><img src="https://raw.githubusercontent.com/scasella/GhostLabel/main/screenshots/ghostlabel1.png" width="400" alt="GhostLabel screenshot"></a>
     </td>
   </tr>
@@ -53,8 +53,8 @@
 
 ### macOS Menu Bar Apps
 
-- [**GhostLabel**](https://github.com/scasella/GhostLabel) — AI-powered Ghostty tab renamer. Reads terminal buffers and renames tabs with short, relevant titles.
-- [**TabPilot**](https://github.com/scasella/TabPilot) — AI-powered Safari tab command center. See all tabs by domain or AI-detected topics, track tab age, find duplicates.
+- [**GhostLabel**](https://github.com/scasella/GhostLabel) — Ghostty tab renamer powered by Codex App Server. Reads terminal buffers and renames tabs with short, relevant titles.
+- [**TabPilot**](https://github.com/scasella/TabPilot) — Safari tab command center powered by Codex App Server. See all tabs by domain, track tab age, find duplicates.
 - [**SafariMarkdown**](https://github.com/scasella/SafariMarkdown) — Convert the current Safari tab to clean Markdown with one click, real-time streaming via Codex.
 - [**PasteForge**](https://github.com/scasella/PasteForge) — Clipboard text transformer. 37 transforms: case, encode, format, hash, stats.
 - [**ClipDrop**](https://github.com/scasella/ClipDrop) — Read clipboard text, edit it, save to any file format.
