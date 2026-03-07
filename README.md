@@ -56,12 +56,6 @@ Most of these were built in single-day sessions with Claude Code.
 - [**SunShift**](https://github.com/scasella/SunShift) — Adjust Night Shift intensity from the menu bar.
 - [**ScreenSweep**](https://github.com/scasella/ScreenSweep) — Find, review, and clean up macOS screenshots in bulk.
 
-### AI Agent Tools
-
-- [**CodexPilot**](https://github.com/scasella/CodexPilot) — Slack-styled macOS menu bar dashboard for OpenAI Codex app server via WebSocket.
-- [**CodexChat**](https://github.com/scasella/CodexChat) — Native iOS client for OpenAI Codex with on-device server execution via Rust FFI.
-- [**AgentPulse**](https://github.com/scasella/AgentPulse) — macOS menu bar dashboard for Claude Code agent teams and tasks.
-
 ### ML & Research
 
 - [**nanochat-mlx**](https://github.com/scasella/nanochat-mlx) — Train your own ChatGPT on Apple Silicon. MLX port of nanochat.
