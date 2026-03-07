@@ -3,9 +3,8 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
-      <em>Adjust Night Shift intensity from the menu bar</em><br>
-      <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
+      <a href="https://github.com/scasella/hypothesis_forge"><b>hypothesis-forge</b></a><br>
+      <em>RL environment that rewards novelty with accountability — propose ideas, ground them in evidence, design falsifying experiments</em>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TextDrop"><b>TextDrop</b></a><br>
@@ -15,8 +14,9 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/hypothesis_forge"><b>hypothesis-forge</b></a><br>
-      <em>RL environment that rewards novelty with accountability — propose ideas, ground them in evidence, design falsifying experiments</em>
+      <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
+      <em>Adjust Night Shift intensity from the menu bar</em><br>
+      <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
