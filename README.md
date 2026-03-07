@@ -29,11 +29,13 @@ Most of these were built in single-day sessions with Claude Code.
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/scasella/ScreenSweep"><b>ScreenSweep</b></a><br>
+      <a href="https://github.com/scasella/ScreenSweep"><img src="https://raw.githubusercontent.com/scasella/ScreenSweep/main/screenshot.png" width="400" alt="ScreenSweep screenshot"></a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
       <i>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</i><br><br>
       <a href="https://github.com/scasella/nanochat-mlx">Local LLM training with MLX. Fine-tune GPT-2 class models on your Mac.</a>
-    </td>
-    <td align="center" width="50%">
     </td>
   </tr>
 </table>
