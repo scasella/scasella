@@ -42,6 +42,9 @@
       <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
     </td>
     <td align="center" width="50%">
+      <a href="https://github.com/scasella/ProcessBeacon"><b>ProcessBeacon</b></a><br>
+      <em>Monitor long-running processes and get notified on completion</em><br>
+      <a href="https://github.com/scasella/ProcessBeacon"><img src="https://raw.githubusercontent.com/scasella/ProcessBeacon/main/screenshot.png" width="400" alt="ProcessBeacon screenshot"></a>
     </td>
   </tr>
 </table>
