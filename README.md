@@ -9,6 +9,16 @@ Most of these were built in single-day sessions with Claude Code.
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
+      <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/scasella/TextDrop"><b>TextDrop</b></a><br>
+      <a href="https://github.com/scasella/TextDrop"><img src="https://raw.githubusercontent.com/scasella/TextDrop/main/screenshot.png" width="400" alt="TextDrop screenshot"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
       <a href="https://github.com/scasella/TabPilot"><img src="https://raw.githubusercontent.com/scasella/TabPilot/main/screenshots/01-main-view.png" width="400" alt="TabPilot screenshot"></a>
     </td>
@@ -19,23 +29,11 @@ Most of these were built in single-day sessions with Claude Code.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/DiskPulse"><b>DiskPulse</b></a><br>
-      <a href="https://github.com/scasella/DiskPulse"><img src="https://raw.githubusercontent.com/scasella/DiskPulse/main/screenshot.png" width="400" alt="DiskPulse screenshot"></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/scasella/PortSentry"><b>PortSentry</b></a><br>
-      <a href="https://github.com/scasella/PortSentry"><img src="https://raw.githubusercontent.com/scasella/PortSentry/main/screenshot.png" width="400" alt="PortSentry screenshot"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
       <i>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</i><br><br>
       <a href="https://github.com/scasella/nanochat-mlx">Local LLM training with MLX. Fine-tune GPT-2 class models on your Mac.</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/ProcessBeacon"><b>ProcessBeacon</b></a><br>
-      <a href="https://github.com/scasella/ProcessBeacon"><img src="https://raw.githubusercontent.com/scasella/ProcessBeacon/main/screenshot.png" width="400" alt="ProcessBeacon screenshot"></a>
     </td>
   </tr>
 </table>
