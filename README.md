@@ -1,8 +1,7 @@
-# Hey, I'm Sam
+# Hey, I'm Stephen
 
-I build native macOS menu bar apps, AI agent tools, and ML experiments on Apple Silicon. Everything ships as a single-purpose tool — small, fast, useful from day one.
+I build native macOS utility apps, AI agent tools, and ML experiments on Apple Silicon.
 
-Most of these were built in single-day sessions with Claude Code.
 
 ## Featured
 
