@@ -4,31 +4,31 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
-      <sub>Adjust Night Shift intensity from the menu bar</sub><br>
+      <em>Adjust Night Shift intensity from the menu bar</em><br>
       <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TextDrop"><b>TextDrop</b></a><br>
-      <sub>Turn pasted text into files with one click</sub><br>
+      <em>Turn pasted text into files with one click</em><br>
       <a href="https://github.com/scasella/TextDrop"><img src="https://raw.githubusercontent.com/scasella/TextDrop/main/screenshot.png" width="400" alt="TextDrop screenshot"></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
-      <sub>AI-powered Safari tab command center for the menu bar</sub><br>
+      <em>AI-powered Safari tab command center for the menu bar</em><br>
       <a href="https://github.com/scasella/TabPilot"><img src="https://raw.githubusercontent.com/scasella/TabPilot/main/screenshots/01-main-view.png" width="400" alt="TabPilot screenshot"></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/SafariMarkdown"><b>SafariMarkdown</b></a><br>
-      <sub>Convert any Safari tab to clean Markdown in one click</sub><br>
+      <em>Convert any Safari tab to clean Markdown in one click</em><br>
       <a href="https://github.com/scasella/SafariMarkdown"><img src="https://raw.githubusercontent.com/scasella/SafariMarkdown/main/screenshot.png" width="400" alt="SafariMarkdown screenshot"></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/ScreenSweep"><b>ScreenSweep</b></a><br>
-      <sub>Find, review, and clean up macOS screenshots in bulk</sub><br>
+      <em>Find, review, and clean up macOS screenshots in bulk</em><br>
       <a href="https://github.com/scasella/ScreenSweep"><img src="https://raw.githubusercontent.com/scasella/ScreenSweep/main/screenshot.png" width="400" alt="ScreenSweep screenshot"></a>
     </td>
     <td align="center" width="50%">
