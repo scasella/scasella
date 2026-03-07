@@ -39,8 +39,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
-      <i>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</i><br><br>
-      <a href="https://github.com/scasella/nanochat-mlx">Local LLM training with MLX. Fine-tune GPT-2 class models on your Mac.</a>
+      <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
     </td>
     <td align="center" width="50%">
     </td>
