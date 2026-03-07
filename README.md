@@ -42,9 +42,9 @@
       <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/ProcessBeacon"><b>ProcessBeacon</b></a><br>
-      <em>Monitor long-running processes and get notified on completion</em><br>
-      <a href="https://github.com/scasella/ProcessBeacon"><img src="https://raw.githubusercontent.com/scasella/ProcessBeacon/main/screenshot.png" width="400" alt="ProcessBeacon screenshot"></a>
+      <a href="https://github.com/scasella/GhostLabel"><b>GhostLabel</b></a><br>
+      <em>AI-powered Ghostty tab renamer for your macOS menu bar</em><br>
+      <a href="https://github.com/scasella/GhostLabel"><img src="https://raw.githubusercontent.com/scasella/GhostLabel/main/screenshots/ghostlabel1.png" width="400" alt="GhostLabel screenshot"></a>
     </td>
   </tr>
 </table>
@@ -53,6 +53,7 @@
 
 ### macOS Menu Bar Apps
 
+- [**GhostLabel**](https://github.com/scasella/GhostLabel) — AI-powered Ghostty tab renamer. Reads terminal buffers and renames tabs with short, relevant titles.
 - [**TabPilot**](https://github.com/scasella/TabPilot) — AI-powered Safari tab command center. See all tabs by domain or AI-detected topics, track tab age, find duplicates.
 - [**SafariMarkdown**](https://github.com/scasella/SafariMarkdown) — Convert the current Safari tab to clean Markdown with one click, real-time streaming via Codex.
 - [**PasteForge**](https://github.com/scasella/PasteForge) — Clipboard text transformer. 37 transforms: case, encode, format, hash, stats.
