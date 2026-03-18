@@ -13,34 +13,37 @@
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/scasella/TextDrop"><b>TextDrop</b></a><br>
+      <em>Turn pasted text into files with one click</em><br>
+      <a href="https://github.com/scasella/TextDrop"><img src="https://raw.githubusercontent.com/scasella/TextDrop/main/screenshot.png" width="400" alt="TextDrop screenshot"></a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
       <em>Adjust Night Shift intensity from the menu bar</em><br>
       <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
       <em>Safari tab command center powered by Codex App Server</em><br>
       <a href="https://github.com/scasella/TabPilot"><img src="https://raw.githubusercontent.com/scasella/TabPilot/main/screenshots/01-main-view.png" width="400" alt="TabPilot screenshot"></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/SafariMarkdown"><b>SafariMarkdown</b></a><br>
       <em>Convert any Safari tab to clean Markdown in one click</em><br>
       <a href="https://github.com/scasella/SafariMarkdown"><img src="https://raw.githubusercontent.com/scasella/SafariMarkdown/main/screenshot.png" width="400" alt="SafariMarkdown screenshot"></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/ScreenSweep"><b>ScreenSweep</b></a><br>
       <em>Find, review, and clean up macOS screenshots in bulk</em><br>
       <a href="https://github.com/scasella/ScreenSweep"><img src="https://raw.githubusercontent.com/scasella/ScreenSweep/main/screenshot.png" width="400" alt="ScreenSweep screenshot"></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
       <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
-    </td>
-    <td align="center" width="50%">
     </td>
   </tr>
 </table>
