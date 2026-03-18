@@ -2,11 +2,11 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/hypothesis_forge"><b>hypothesis-forge</b></a><br>
       <em>RL environment that rewards novelty with accountability — propose ideas, ground them in evidence, design falsifying experiments</em>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/adaptive_rag_rlm"><b>adaptive-rag-rlm</b></a><br>
       <em>Verifiers RLM environment — tests whether adaptive recursive search outperforms brittle manual RAG choreography on long synthetic corpora</em>
     </td>
