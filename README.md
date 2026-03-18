@@ -7,9 +7,8 @@
       <em>RL environment that rewards novelty with accountability — propose ideas, ground them in evidence, design falsifying experiments</em>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/TextDrop"><b>TextDrop</b></a><br>
-      <em>Turn pasted text into files with one click</em><br>
-      <a href="https://github.com/scasella/TextDrop"><img src="https://raw.githubusercontent.com/scasella/TextDrop/main/screenshot.png" width="400" alt="TextDrop screenshot"></a>
+      <a href="https://github.com/scasella/adaptive_rag_rlm"><b>adaptive-rag-rlm</b></a><br>
+      <em>Verifiers RLM environment — tests whether adaptive recursive search outperforms brittle manual RAG choreography on long synthetic corpora</em>
     </td>
   </tr>
   <tr>
@@ -42,9 +41,6 @@
       <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/scasella/GhostLabel"><b>GhostLabel</b></a><br>
-      <em>Ghostty tab renamer powered by Codex App Server</em><br>
-      <a href="https://github.com/scasella/GhostLabel"><img src="https://raw.githubusercontent.com/scasella/GhostLabel/main/screenshots/ghostlabel1.png" width="400" alt="GhostLabel screenshot"></a>
     </td>
   </tr>
 </table>
@@ -69,6 +65,7 @@
 ### ML & Research
 
 - [**hypothesis-forge**](https://github.com/scasella/hypothesis_forge) — RL environment for training models to propose novel, evidence-grounded, falsifiable ideas.
+- [**adaptive-rag-rlm**](https://github.com/scasella/adaptive_rag_rlm) — Verifiers RLM environment testing adaptive recursive search vs. manual RAG choreography on long synthetic corpora.
 - [**nanochat-mlx**](https://github.com/scasella/nanochat-mlx) — Train your own ChatGPT on Apple Silicon. MLX port of nanochat.
 
 ### Distribution
