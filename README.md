@@ -68,6 +68,7 @@
 
 - [**hypothesis-forge**](https://github.com/scasella/hypothesis_forge) — RL environment for training models to propose novel, evidence-grounded, falsifiable ideas.
 - [**adaptive-rag-rlm**](https://github.com/scasella/adaptive_rag_rlm) — Verifiers RLM environment testing adaptive recursive search vs. manual RAG choreography on long synthetic corpora.
+- [**ttt-discover-autoresearch-mlx**](https://github.com/scasella/ttt-discover-autoresearch-mlx) — Run RL-driven autoresearch on Apple Silicon. Local-first MLX version of TTT-Discover AutoResearch.
 - [**nanochat-mlx**](https://github.com/scasella/nanochat-mlx) — Train your own ChatGPT on Apple Silicon. MLX port of nanochat.
 
 ### Distribution
