@@ -17,10 +17,9 @@
       <em>Turn pasted text into files with one click</em><br>
       <a href="https://github.com/scasella/TextDrop"><img src="https://raw.githubusercontent.com/scasella/TextDrop/main/screenshot.png" width="400" alt="TextDrop screenshot"></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
-      <em>Adjust Night Shift intensity from the menu bar</em><br>
-      <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
+    <td align="center" valign="middle" width="50%" height="250">
+      <a href="https://github.com/scasella/ttt-discover-autoresearch-mlx"><b>ttt-discover-autoresearch-mlx</b></a><br>
+      <em>Run RL-driven autoresearch on Apple Silicon — local-first MLX version of TTT-Discover AutoResearch</em>
     </td>
   </tr>
   <tr>
