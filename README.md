@@ -4,7 +4,7 @@
   <tr>
     <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/society-of-thought-bench"><b>society-of-thought-bench</b></a><br>
-      <em>Multi-persona deliberation in reasoning trace model with benchmark evidence, raw traces, and live demo</em>
+      <em>Multi-persona debate in reasoning trace Qwen3-30B-A3B post-trained model with benchmark evidence, raw traces, and live demo</em>
     </td>
     <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/hypothesis_forge"><b>hypothesis-forge</b></a><br>
@@ -64,7 +64,7 @@
 
 ### ML & Research
 
-- [**society-of-thought-bench**](https://github.com/scasella/society-of-thought-bench) — Multi-persona deliberation in reasoning trace model with benchmark evidence, raw traces, and live demo.
+- [**society-of-thought-bench**](https://github.com/scasella/society-of-thought-bench) — Multi-persona debate in reasoning trace Qwen3-30B-A3B post-trained model with benchmark evidence, raw traces, and live demo.
 - [**hypothesis-forge**](https://github.com/scasella/hypothesis_forge) — RL environment for training models to propose novel, evidence-grounded, falsifiable ideas.
 - [**adaptive-rag-rlm**](https://github.com/scasella/adaptive_rag_rlm) — Verifiers RLM environment testing adaptive recursive search vs. manual RAG choreography on long synthetic corpora.
 - [**ttt-discover-autoresearch-mlx**](https://github.com/scasella/ttt-discover-autoresearch-mlx) — Run RL-driven autoresearch on Apple Silicon. Local-first MLX version of TTT-Discover AutoResearch.
