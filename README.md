@@ -3,44 +3,43 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="50%" height="250">
+      <a href="https://github.com/scasella/society-of-thought-bench"><b>society-of-thought-bench</b></a><br>
+      <em>Visible multi-persona reasoning model with benchmark evidence, raw traces, and live demo</em>
+    </td>
+    <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/hypothesis_forge"><b>hypothesis-forge</b></a><br>
       <em>RL environment that rewards novelty with accountability — propose ideas, ground them in evidence, design falsifying experiments</em>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/adaptive_rag_rlm"><b>adaptive-rag-rlm</b></a><br>
       <em>Verifiers RLM environment — tests whether adaptive recursive search outperforms brittle manual RAG choreography on long synthetic corpora</em>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TextDrop"><b>TextDrop</b></a><br>
       <em>Turn pasted text into files with one click</em><br>
       <a href="https://github.com/scasella/TextDrop"><img src="https://raw.githubusercontent.com/scasella/TextDrop/main/screenshot.png" width="400" alt="TextDrop screenshot"></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/ttt-discover-autoresearch-mlx"><b>ttt-discover-autoresearch-mlx</b></a><br>
       <em>Run RL-driven autoresearch on Apple Silicon — local-first MLX version of TTT-Discover AutoResearch</em>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/TabPilot"><b>TabPilot</b></a><br>
       <em>Safari tab command center powered by Codex App Server</em><br>
       <a href="https://github.com/scasella/TabPilot"><img src="https://raw.githubusercontent.com/scasella/TabPilot/main/screenshots/01-main-view.png" width="400" alt="TabPilot screenshot"></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/SafariMarkdown"><b>SafariMarkdown</b></a><br>
       <em>Convert any Safari tab to clean Markdown in one click</em><br>
       <a href="https://github.com/scasella/SafariMarkdown"><img src="https://raw.githubusercontent.com/scasella/SafariMarkdown/main/screenshot.png" width="400" alt="SafariMarkdown screenshot"></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/scasella/ScreenSweep"><b>ScreenSweep</b></a><br>
-      <em>Find, review, and clean up macOS screenshots in bulk</em><br>
-      <a href="https://github.com/scasella/ScreenSweep"><img src="https://raw.githubusercontent.com/scasella/ScreenSweep/main/screenshot.png" width="400" alt="ScreenSweep screenshot"></a>
-    </td>
-    <td align="center" width="50%">
+    <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
       <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
     </td>
@@ -62,10 +61,10 @@
 - [**ProcessBeacon**](https://github.com/scasella/ProcessBeacon) — Monitor long-running processes and get notified on completion.
 - [**BrewPilot**](https://github.com/scasella/BrewPilot) — Manage Homebrew services — start, stop, restart with one click.
 - [**SunShift**](https://github.com/scasella/SunShift) — Adjust Night Shift intensity from the menu bar.
-- [**ScreenSweep**](https://github.com/scasella/ScreenSweep) — Find, review, and clean up macOS screenshots in bulk.
 
 ### ML & Research
 
+- [**society-of-thought-bench**](https://github.com/scasella/society-of-thought-bench) — Visible multi-persona reasoning model with benchmark evidence, raw traces, and live demo.
 - [**hypothesis-forge**](https://github.com/scasella/hypothesis_forge) — RL environment for training models to propose novel, evidence-grounded, falsifiable ideas.
 - [**adaptive-rag-rlm**](https://github.com/scasella/adaptive_rag_rlm) — Verifiers RLM environment testing adaptive recursive search vs. manual RAG choreography on long synthetic corpora.
 - [**ttt-discover-autoresearch-mlx**](https://github.com/scasella/ttt-discover-autoresearch-mlx) — Run RL-driven autoresearch on Apple Silicon. Local-first MLX version of TTT-Discover AutoResearch.
