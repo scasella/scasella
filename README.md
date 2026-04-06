@@ -3,6 +3,17 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="50%" height="250">
+      <a href="https://github.com/scasella/autoresearch-evo"><b>autoresearch-evo</b></a><br>
+      <em>Fork of Karpathy's autoresearch with novelty-search-inspired autonomous search, run memory, and agentic review</em>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
+      <em>Adjust Night Shift intensity from the menu bar</em><br>
+      <a href="https://github.com/scasella/SunShift"><img src="https://raw.githubusercontent.com/scasella/SunShift/main/screenshot.png" width="400" alt="SunShift screenshot"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="50%" height="250">
       <a href="https://github.com/scasella/society-of-thought-bench"><b>society-of-thought-bench</b></a><br>
       <em>Multi-persona debate in reasoning trace Qwen3-30B-A3B post-trained model with benchmark evidence, raw traces, and live demo</em>
     </td>
