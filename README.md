@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="50%" height="250">
-      <a href="https://github.com/scasella/autoresearch-evo"><b>autoresearch-evo</b></a><br>
-      <em>Fork of Karpathy's autoresearch with novelty-search-inspired autonomous search, run memory, and agentic review</em>
+      <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
+      <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/scasella/SunShift"><b>SunShift</b></a><br>
@@ -51,8 +51,8 @@
       <a href="https://github.com/scasella/SafariMarkdown"><img src="https://raw.githubusercontent.com/scasella/SafariMarkdown/main/screenshot.png" width="400" alt="SafariMarkdown screenshot"></a>
     </td>
     <td align="center" valign="middle" width="50%" height="250">
-      <a href="https://github.com/scasella/nanochat-mlx"><b>nanochat-mlx</b></a><br>
-      <em>Train your own ChatGPT on Apple Silicon — MLX port of nanochat</em>
+      <a href="https://github.com/scasella/Proofgrade"><b>Proofgrade</b></a><br>
+      <em>Reproducible LLM proof grading benchmark + API for Olympiad-style math</em>
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@
 ### macOS Menu Bar Apps
 
 - [**GhostLabel**](https://github.com/scasella/GhostLabel) — Ghostty tab renamer powered by Codex App Server. Reads terminal buffers and renames tabs with short, relevant titles.
-- [**TabPilot**](https://github.com/scasella/TabPilot) — Safari tab command center powered by Codex App Server. See all tabs by domain, track tab age, find duplicates.
+- [**TabPilot**](https://github.com/scasella/TabPilot) — Safari tab manager for 100+ tabs, with optional local AI clustering.
 - [**SafariMarkdown**](https://github.com/scasella/SafariMarkdown) — Convert the current Safari tab to clean Markdown with one click, real-time streaming via Codex.
 - [**PasteForge**](https://github.com/scasella/PasteForge) — Clipboard text transformer. 37 transforms: case, encode, format, hash, stats.
 - [**ClipDrop**](https://github.com/scasella/ClipDrop) — Read clipboard text, edit it, save to any file format.
@@ -75,11 +75,15 @@
 
 ### ML & Research
 
+- [**nanochat-mlx**](https://github.com/scasella/nanochat-mlx) — Train your own ChatGPT on Apple Silicon. MLX port of nanochat.
+- [**gemma4-m4-pro**](https://github.com/scasella/gemma4-m4-pro) — Gemma 4 on a 24GB MacBook: measured recipes, runtimes, and fallback paths.
+- [**train-gemma4-sudoku-on-your-macbook**](https://github.com/scasella/train-gemma4-sudoku-on-your-macbook) — One-notebook Gemma 4 RL on Apple Silicon.
+- [**Proofgrade**](https://github.com/scasella/Proofgrade) — Reproducible LLM proof grading benchmark + API for Olympiad-style math.
 - [**society-of-thought-bench**](https://github.com/scasella/society-of-thought-bench) — Multi-persona debate in reasoning trace Qwen3-30B-A3B post-trained model with benchmark evidence, raw traces, and live demo.
 - [**hypothesis-forge**](https://github.com/scasella/hypothesis_forge) — RL environment for training models to propose novel, evidence-grounded, falsifiable ideas.
 - [**adaptive-rag-rlm**](https://github.com/scasella/adaptive_rag_rlm) — Verifiers RLM environment testing adaptive recursive search vs. manual RAG choreography on long synthetic corpora.
 - [**ttt-discover-autoresearch-mlx**](https://github.com/scasella/ttt-discover-autoresearch-mlx) — Run RL-driven autoresearch on Apple Silicon. Local-first MLX version of TTT-Discover AutoResearch.
-- [**nanochat-mlx**](https://github.com/scasella/nanochat-mlx) — Train your own ChatGPT on Apple Silicon. MLX port of nanochat.
+- [**autoresearch-evo**](https://github.com/scasella/autoresearch-evo) — Fork of Karpathy's autoresearch with novelty-search-inspired autonomous search, run memory, and agentic review.
 
 ### Distribution
 
