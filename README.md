@@ -6,9 +6,11 @@ Write-ups, models and every repo: **[casella.dev](https://casella.dev)**
 
 Each write-up lists its model, data, code and open issues.
 
-- **[I used agents and Lean to cut a compiled PyTorch workload’s runtime by 26%](https://casella.dev/blog_pytorch_narrowing.html)** · [code](https://github.com/scasella/veritile-narrow-cat) · [PR](https://github.com/pytorch/pytorch/pull/198733)<br>
+- **[Agents turned a one-kernel Lean proof into a checker that certified 25 PyTorch kernels](https://casella.dev/blog_certified_narrowing.html)** · [code](https://github.com/scasella/certified-int-narrowing)<br>
+  One Lean theorem and a small checker certified 32-bit size arguments for 25 `torch.compile` kernels, including 10 of 24 held out, with each proof bound to the live compilation. Two of nine tuned kernels got faster.
+- **[A Lean proof let agents cut a compiled PyTorch workload’s runtime by 26%](https://casella.dev/blog_pytorch_narrowing.html)** · [code](https://github.com/scasella/veritile-narrow-cat) · [PR](https://github.com/pytorch/pytorch/pull/198733)<br>
   Agents declared a `torch.compile` kernel’s size arguments 32-bit, proved in Lean when that is exact, and cut a changing-shape workload’s time by 26% on one L4.
-- **[I used agents to find 25 bugs in free-threaded CPython](https://casella.dev/blog_cpython_ft.html)**<br>
+- **[25 bugs in free-threaded CPython, found by agents](https://casella.dev/blog_cpython_ft.html)**<br>
   Agents confirmed 25 bugs in the no-GIL build, with no earlier report found for 18. TLAPS and Lean proofs of the locking model held; replays of real runs showed five places CPython leaves it.
 - **[I used formal verification and agents to make an algorithm 105× faster and prove it behaves the same](https://casella.dev/blog_proof_optimizer.html)**<br>
   Seven rewrites of deliberately slow Dafny routines verified against a frozen spec; one ran 105× faster on a workload it never saw.
@@ -18,7 +20,7 @@ Each write-up lists its model, data, code and open issues.
   A linear probe on Llama 3.1 8B’s hidden states ranks claim correctness better than the model’s stated confidence.
 - **[Panel-style reasoning trades accuracy for shorter completions](https://casella.dev/blog_multipersona.html)** and **[one RL run on sometimes-solvable problems](https://casella.dev/blog_multipersona_rl.html)** · [code](https://github.com/scasella/multi-model)
 
-All seven: [casella.dev/research.html](https://casella.dev/research.html)
+All eight: [casella.dev/research.html](https://casella.dev/research.html)
 
 ## Software
 
