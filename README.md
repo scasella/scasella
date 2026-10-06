@@ -6,6 +6,8 @@ Write-ups, models and every repo: **[casella.dev](https://casella.dev)**
 
 Each write-up lists its model, data, code and open issues.
 
+- **[Verified once, reused three times: agents carried proofs of shipped OpenSSL code into new callers](https://casella.dev/blog_reusable_binary_assurance.html)** · [sources](https://github.com/scasella/binary-proofs)<br>
+  Machine-checked contracts for two unchanged Debian OpenSSL routines verified three experimental callers through their actual linkage. The held-out caller missed its three-hour cap, then completed in a recorded successor.
 - **[Agents turned a one-kernel Lean proof into a checker that certified 25 PyTorch kernels](https://casella.dev/blog_certified_narrowing.html)** · [code](https://github.com/scasella/certified-int-narrowing)<br>
   One Lean theorem and a small checker certified 32-bit size arguments for 25 `torch.compile` kernels, including 10 of 24 held out, with each proof bound to the live compilation. Two of nine tuned kernels got faster.
 - **[A Lean proof let agents cut a compiled PyTorch workload’s runtime by 26%](https://casella.dev/blog_pytorch_narrowing.html)** · [code](https://github.com/scasella/veritile-narrow-cat) · [PR](https://github.com/pytorch/pytorch/pull/198733)<br>
