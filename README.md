@@ -22,9 +22,15 @@ Each write-up lists its model, data, code and open issues.
   A linear probe on Llama 3.1 8B’s hidden states ranks claim correctness better than the model’s stated confidence.
 - **[Panel-style reasoning trades accuracy for shorter completions](https://casella.dev/blog_multipersona.html)** and **[one RL run on sometimes-solvable problems](https://casella.dev/blog_multipersona_rl.html)** · [code](https://github.com/scasella/multi-model)
 
-All eight: [casella.dev/research.html](https://casella.dev/research.html)
+All nine: [casella.dev/research.html](https://casella.dev/research.html)
 
 ## Software
+
+**Machine-checked software.** A model proposes; a proof assistant or the toolchain decides what ships.
+
+- **[HN, formally](https://github.com/scasella/hn-formal)** · [live site](https://scasella.github.io/hn-formal/) — The Hacker News front page and its 30 threads, rendered by a Lean 4 program proven to render every API input correctly, and redesigned every night by an LLM loop that releases without human review whenever a candidate passes. Structure, data fidelity and the no-injection property are proven; contrast, reflow and accessibility are checked per release in a browser and never called proven.
+- **[Faithful](https://github.com/scasella/faithful)** · [try it in your browser](https://scasella.github.io/faithful/) — Make one TypeScript function faster and see exactly how much of “it still does the same thing” was checked. Each rewrite must compile, stay pure, match the original on generated inputs, survive a bounded Z3 search and benchmark faster; one that is significantly faster is then proved in Lean 4 against a spec agreed in plain words. Early: the translator accepts 39 of 74 corpus functions and 0 of 20 sampled from real libraries.
+- **[Undefined](https://github.com/scasella/undefined)** · [try it in your browser](https://scasella.github.io/undefined/#/zen) — A live program that grows the functions you call but haven’t written. Ask a question of a spreadsheet export; a model drafts the calculation and the checks it must pass, you approve the checks, and a strict TypeScript compiler, unit and property tests, and purity and time-limit gates decide what is accepted. The same engine runs as a CLI and a GitHub Action that certify TypeScript from any source.
 
 - **[Dynamic Workflows on Codex](https://github.com/scasella/claude-dynamic-workflows-codex)** — A Claude Code skill: describe a task, and Claude writes a multi-agent workflow script, runs it on Codex agents instead of Claude subagents, and shows the run as a live map.
 - **[nanochat-mlx](https://github.com/scasella/nanochat-mlx)** — Train a small chatbot from scratch on Apple Silicon, from tokenizer training to a chat interface.
