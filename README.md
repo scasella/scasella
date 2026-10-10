@@ -33,6 +33,7 @@ All nine: [casella.dev/research.html](https://casella.dev/research.html)
 - **[Undefined](https://github.com/scasella/undefined)** · [try it in your browser](https://scasella.github.io/undefined/#/zen) — A live program that grows the functions you call but haven’t written. Ask a question of a spreadsheet export; a model drafts the calculation and the checks it must pass, you approve the checks, and a strict TypeScript compiler, unit and property tests, and purity and time-limit gates decide what is accepted. The same engine runs as a CLI and a GitHub Action that certify TypeScript from any source.
 
 - **[Dynamic Workflows on Codex](https://github.com/scasella/claude-dynamic-workflows-codex)** — A Claude Code skill: describe a task, and Claude writes a multi-agent workflow script, runs it on Codex agents instead of Claude subagents, and shows the run as a live map.
+- **[Flightdeck](https://github.com/scasella/claude-flightdeck)** — A Claude Code mod that puts a live agent dashboard in your terminal: context and cost, an advisor timeline, every permission check, and your subagents as cards or swimlanes. It only watches and makes no network requests.
 - **[nanochat-mlx](https://github.com/scasella/nanochat-mlx)** — Train a small chatbot from scratch on Apple Silicon, from tokenizer training to a chat interface.
 - **[Qwen Scope Lab](https://github.com/scasella/qwen-scope-lab)** — A browser workbench for sparse-autoencoder interpretability on Qwen3.5-2B, running on the Mac through MLX.
 
